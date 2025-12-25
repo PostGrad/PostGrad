@@ -4,7 +4,7 @@ Backend-focused fullstack engineer, building scalable systems with Node.js, Type
 
 Enjoying working on platform-style problems like API design, idempotency, rate limiting, scheduling and long-term system reliability.
 
-Previously taught Computer Engineering subjects at [BVM](https://bvmengineering.ac.in/ "BVM Engineering College") for 5 years. Still enjoy explaining things.
+Previously taught Computer Science subjects at Engineering College for 5 years. Still enjoy explaining things.
 
 ---
 
@@ -17,4 +17,4 @@ frontend   React · Next.js · Tailwind
 
 ---
 
-[Portfolio](https://postgrad.github.io) · [LinkedIn](https://linkedin.com/in/postgrad) · [Email](mailto:emailofpranay@gmail.com)
+[Portfolio](https://postgrad.github.io/PostGrad/) · [LinkedIn](https://linkedin.com/in/postgrad) · [Email](mailto:emailofpranay@gmail.com)
