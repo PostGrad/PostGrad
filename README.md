@@ -1,20 +1,22 @@
 ### Hey, I'm Pranay
 
-Backend-focused fullstack engineer, building scalable systems with Node.js, TypeScript, and PostgreSQL.
+Full-Stack Software Engineer / Forward Deployed Engineer with 4 years of experience building scalable backend systems and enterprise integrations.
 
-Enjoying working on platform-style problems like API design, idempotency, rate limiting, scheduling and long-term system reliability.
+Currently a Senior Software Solution Engineer at Gupshup Technology — partnering directly with enterprise clients to design and deliver messaging and automation platform integrations. Actively focused on Agentic AI and LLM engineering patterns.
 
-Previously taught Computer Science subjects at Engineering College for 5 years. Still enjoy explaining things.
+Leveraging AI-assisted development tools (Claude Code, Cursor) to accelerate delivery across stacks. Former Assistant Professor who supervised ML/DL research and still enjoys explaining things.
 
 ---
 
 ```
-backend    Node.js · Nest.js · Express · TypeScript · JavaScript
+languages  Python · TypeScript · JavaScript
+backend    Node.js · Nest.js · Express · Django
 databases  PostgreSQL · MySQL · MongoDB · Redis
 apis       REST · GraphQL · Webhooks
-frontend   React · Next.js · Tailwind
+frontend   React · Next.js · TanStack · Tailwind
+devops     Linux · Docker · Git · Jenkins · AWS
 ```
 
 ---
 
-[Portfolio](https://postgrad.github.io/PostGrad/) · [LinkedIn](https://linkedin.com/in/postgrad) · [Email](mailto:emailofpranay@gmail.com)
+[Portfolio](https://postgrad.github.io/) · [LinkedIn](https://linkedin.com/in/postgrad) · [Email](mailto:emailofpranay@gmail.com)
